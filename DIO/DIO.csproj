@@ -163,7 +163,11 @@
   <ItemGroup>
     <Content Include="config.xml" />
     <Content Include="www\cordova.js" />
+    <Content Include="www\img\earthquake.jpg" />
     <Content Include="www\img\eman.jpg" />
+    <Content Include="www\img\flood.jpg" />
+    <Content Include="www\img\thyphon.jpg" />
+    <Content Include="www\img\volcano.jpg" />
     <Content Include="www\index.html" />
     <Content Include="www\css\index.css" />
     <Content Include="www\js\geolocation.js" />

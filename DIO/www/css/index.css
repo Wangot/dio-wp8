@@ -113,3 +113,16 @@ h1 {
     animation:fade 3000ms infinite;
     -webkit-animation:fade 3000ms infinite;
 }
+.disaster_container {
+    width: 50%;
+    height: 200px;
+    display:block;
+    margin: 50px 0 50px 0;
+}
+
+.disaster {
+    display:inherit;
+    padding: 5px;
+    width: 200px;
+    height: auto;
+}
