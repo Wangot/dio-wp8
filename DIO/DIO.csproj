@@ -166,6 +166,7 @@
     <Content Include="www\img\eman.jpg" />
     <Content Include="www\index.html" />
     <Content Include="www\css\index.css" />
+    <Content Include="www\js\geolocation.js" />
     <Content Include="www\js\index.js" />
     <Content Include="www\img\logo.png" />
     <Content Include="Images\appbar.back.rest.png" />
